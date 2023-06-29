@@ -1,0 +1,432 @@
+#!/usr/bin/env python
+from importlib.resources import path
+import smach
+from tokenize import String
+from pyparsing import restOfLine
+import rospy
+from math import pi
+from utils import *
+import parameters as param
+from hybrid_a_star_user_input import *
+from scipy.spatial import KDTree
+from tf.transformations import euler_from_quaternion, quaternion_from_euler
+from farming_bot_msgs.msg import (
+    trajectory_interface_cartesianAction,
+    trajectory_interface_cartesianActionGoal,
+    TrajectoryInterfaceGoalStatus,
+    ModeSwitchRequestMessage
+)
+from std_msgs.msg import (
+    String
+)
+from geometry_msgs.msg import (
+    Pose,
+    PoseStamped,
+    PoseArray
+)
+from nav_msgs.msg import (
+    Path,
+    Odometry,
+    OccupancyGrid
+)
+modes = [
+    ModeSwitchRequestMessage.NAVIGATION,
+    ModeSwitchRequestMessage.START_NAVIGATION,
+    ModeSwitchRequestMessage.STOP_NAVIGATION,
+    ModeSwitchRequestMessage.KEY_HOLE_GENERATION,
+    ModeSwitchRequestMessage.ASSISTED_ALIGNMENT,
+    ModeSwitchRequestMessage.START_HARVESTING,
+    ModeSwitchRequestMessage.STOP_HARVESTING,
+    ModeSwitchRequestMessage.DO_HARVESTING,
+]
+
+
+
+
+class Navigation(smach.State): # Define a state, outcomes and userdata hooks
+    def __init__(self):
+        smach.State.__init__(self,  outcomes=['harvest','start','stop'], 
+                            input_keys=['in_charge'], output_keys=['out_charge'])
+        self.delta_charge = 2
+
+    def execute(self, userdata):
+        rospy.loginfo('Charge value: '+str(userdata.in_charge)) # in_charge and out_charge are the same
+        return 'full'
+
+class Start_Navigation(smach.State): # Define a state, outcomes and userdata hooks
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['stop','done'], 
+                            input_keys=['in_charge'], output_keys=['out_charge'])
+        self.delta_charge = 2
+
+    def execute(self, userdata):
+        
+        rospy.loginfo('Charge value: '+str(userdata.in_charge)) # in_charge and out_charge are the same
+        return 'full'
+
+
+class Stop_Navigation(smach.State): # Define a state, outcomes and userdata hooks
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['done','stop'], 
+                            input_keys=['in_charge'], output_keys=['out_charge'])
+        self.delta_charge = 2
+
+    def execute(self, userdata):
+        rospy.loginfo('Charge value: '+str(userdata.in_charge)) # in_charge and out_charge are the same
+        return 'full'
+
+class Do_Harvesting(smach.State): # Define a state, outcomes and userdata hooks
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['start_harvest','stop_harvest','navigation'], 
+                            input_keys=['in_charge'], output_keys=['out_charge'])
+        self.delta_charge = 2
+
+    def execute(self, userdata):
+        rospy.loginfo('Charge value: '+str(userdata.in_charge)) # in_charge and out_charge are the same
+        return 'full'
+
+class Start_Harvesting(smach.State): # Define a state, outcomes and userdata hooks
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['stop_harvesting','done'], 
+                            input_keys=['in_charge'], output_keys=['out_charge'])
+        self.delta_charge = 2
+
+    def execute(self, userdata):
+        rospy.loginfo('Charge value: '+str(userdata.in_charge)) # in_charge and out_charge are the same
+        return 'full'
+
+class Stop_Harvesting(smach.State): # Define a state, outcomes and userdata hooks
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['done','stop_harvest'], 
+                            input_keys=['in_charge'], output_keys=['out_charge'])
+        self.delta_charge = 2
+
+    def execute(self, userdata):
+        rospy.loginfo('Charge value: '+str(userdata.in_charge)) # in_charge and out_charge are the same
+        return 'full'
+
+class ASSISTED_ALIGNMENT(smach.State):
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['done','processing'],
+                            input_keys=['in_charge','in_clean'], 
+                            output_keys=['out_charge','out_clean'])
+     def callback_select_mode(self,msg):
+        self.choose_next_state()
+        self.mode_change('START_NAVIGATION')
+        if self.current_target_goal !=None and self.goal_reached != True:
+            print('Distance to Current sequence end point',euclidean_distance(self.start,self.current_target_goal), (euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal))
+            if euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal:
+                self.goal_reached = True
+                self.current_target_goal = None
+            # pass
+    def successor_states(self,state):
+        if state in ("NAVIGATION"):
+            if(self.current_target_goal!=None and self.is_goal_set!= None):
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+            else:
+                states = ["KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","START_HARVESTING","STOP_HARVESTING","DO_HARVESTING","STOP_NAVIGATION"]
+        elif state in ("START_NAVIGATION"):
+            if self.goal_reached ==True:
+                states = ["STOP_NAVIGATION","NAVIGATION"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+        elif state =="KEY_HOLE_GENERATION":
+            if self.key_hole_success == False:
+                states = ["KEY_HOLE_GENERATION","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="ASSISTED_ALIGNMENT":
+            if self.alignment_success == False:
+                states = ["ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="DO_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["NAVIGATION","ASSISTED_ALIGNMENT","KEY_HOLE_GENERATION"]
+        elif state =="START_HARVESTING":
+            if self.harvest_success != True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="STOP_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["DO_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["NAVIGATION","KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+        elif state =="STOP_NAVIGATION":
+            if self.goal_reached ==True and self.current_target_goal==None:
+                states = ["NAVIGATION","DO_HARVESTING"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+
+        return states
+    def execute(self, userdata):
+        if userdata.in_clean >= 3:
+            return 'done'
+        elif userdata.in_charge <= 0:
+            return 'need_charge'
+        else:
+            userdata.out_clean = userdata.in_clean + 1
+            userdata.out_charge = userdata.in_charge - 1
+            rospy.loginfo('Clean: '+str(userdata.in_clean) + ', charge: ' + str(userdata.in_charge))
+            return 'cleaning'
+
+
+def init_vac_userdata():
+    #create SMACH state machine
+    sm = smach.StateMachine(outcomes=['finished','aborted'])
+    sm.userdata.sm_clean = 0
+    sm.userdata.sm_charge = 0
+    sm.set_initial_state(['CLEAN'])
+
+    with sm:
+        smach.StateMachine.add('CHARGE', Charge(), # Add state and mapping for IO hooks
+                transitions={'full':'CLEAN'},
+                remapping={'in_charge':'sm_charge','out_charge':'sm_charge'})
+        smach.StateMachine.add('CLEAN', Clean(),
+                transitions={'done':'finished',
+                             'cleaning':'CLEAN',
+                             'need_charge':'CHARGE'},
+                remapping={'in_charge':'sm_charge','out_charge':'sm_charge',
+                           'in_clean':'sm_clean','out_clean':'sm_clean'})
+    return sm
+    
+if __name__ == '__main__':
+    rospy.init_node('vac_02')
+    rospy.sleep(0.5)          # Time to initialize to avoid missing log messages
+    sm = init_vac_userdata()  # Create state machine
+    outcome = sm.execute()    # Execute state machine
+    rospy.loginfo('Final outcome: '+outcome)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#!/usr/bin/env python
+import rospy
+import smach
+
+class Navigation(smach.State): # Define a state, outcomes and userdata hooks
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['full'], 
+                            input_keys=['in_navigation'], output_keys=['out_navigation'])
+        self.delta_charge = 2
+
+    def execute(self, userdata):
+        userdata.out_navigation = userdata.in_navigation + self.delta_charge
+        rospy.loginfo('Navigation: '+str(userdata.in_navigation)) # in_charge and out_charge are the same
+        return 'full'
+
+class Harvest(smach.State):
+    def __init__(self):
+        smach.State.__init__(self, outcomes=['done','harvesting','need_row_change'],
+                            input_keys=['in_navigation','in_harvest'], 
+                            output_keys=['out_navigation','out_harvest'])
+    
+    def execute(self, userdata):
+        if userdata.in_harvest >= 3:
+            return 'done'
+        elif userdata.in_navigation <= 0:
+            return 'need_row_change'
+        else:
+            userdata.out_harvest = userdata.in_harvest + 1
+            userdata.out_navigation = userdata.in_navigation - 1
+            rospy.loginfo('Harvest: '+str(userdata.in_harvest) + ', navigation: ' + str(userdata.in_navigation))
+
+
+def init_harvey_userdata():
+    #create SMACH state machine
+    sm = smach.StateMachine(outcomes=['finished','aborted'])
+    sm.userdata.sm_harvest = 0
+    sm.user
+    sm.userdata.sm_navigation = 0
+    sm.set_initial_state(['Harvest'])
+
+    with sm:
+        smach.StateMachine.add('Navigation', Navigation(), # Add state and mapping for IO hooks
+                transitions={'full':'Navigation'},
+                remapping={'in_navigation':'sm_navigation','out_navigation':'sm_navigation'})
+        smach.StateMachine.add('Harvest', Harvest(),
+                transitions={'done':'finished',
+                             'harvesting':'Harvest',
+                             'need_row_change':'Navigation'},
+                remapping={'in_navigation':'sm_navigation','out_navigation':'sm_navigation' def callback_select_mode(self,msg):
+        self.choose_next_state()
+        self.mode_change('START_NAVIGATION')
+        if self.current_target_goal !=None and self.goal_reached != True:
+            print('Distance to Current sequence end point',euclidean_distance(self.start,self.current_target_goal), (euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal))
+            if euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal:
+                self.goal_reached = True
+                self.current_target_goal = None
+            # pass
+    def successor_states(self,state):
+        if state in ("NAVIGATION"):
+            if(self.current_target_goal!=None and self.is_goal_set!= None):
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+            else:
+                states = ["KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","START_HARVESTING","STOP_HARVESTING","DO_HARVESTING","STOP_NAVIGATION"]
+        elif state in ("START_NAVIGATION"):
+            if self.goal_reached ==True:
+                states = ["STOP_NAVIGATION","NAVIGATION"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+        elif state =="KEY_HOLE_GENERATION":
+            if self.key_hole_success == False:
+                states = ["KEY_HOLE_GENERATION","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="ASSISTED_ALIGNMENT":
+            if self.alignment_success == False:
+                states = ["ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="DO_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["NAVIGATION","ASSISTED_ALIGNMENT","KEY_HOLE_GENERATION"]
+        elif state =="START_HARVESTING":
+            if self.harvest_success != True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="STOP_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["DO_HARVESTING","STOP_HARVESTING"] def callback_select_mode(self,msg):
+        self.choose_next_state()
+        self.mode_change('START_NAVIGATION')
+        if self.current_target_goal !=None and self.goal_reached != True:
+            print('Distance to Current sequence end point',euclidean_distance(self.start,self.current_target_goal), (euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal))
+            if euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal:
+                self.goal_reached = True
+                self.current_target_goal = None
+            # pass
+    def successor_states(self,state):
+        if state in ("NAVIGATION"):
+            if(self.current_target_goal!=None and self.is_goal_set!= None):
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+            else:
+                states = ["KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","START_HARVESTING","STOP_HARVESTING","DO_HARVESTING","STOP_NAVIGATION"]
+        elif state in ("START_NAVIGATION"):
+            if self.goal_reached ==True:
+                states = ["STOP_NAVIGATION","NAVIGATION"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+        elif state =="KEY_HOLE_GENERATION":
+            if self.key_hole_success == False:
+                states = ["KEY_HOLE_GENERATION","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="ASSISTED_ALIGNMENT":
+            if self.alignment_success == False:
+                states = ["ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="DO_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["NAVIGATION","ASSISTED_ALIGNMENT","KEY_HOLE_GENERATION"]
+        elif state =="START_HARVESTING":
+            if self.harvest_success != True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="STOP_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["DO_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["NAVIGATION","KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+        elif state =="STOP_NAVIGATION":
+            if self.goal_reached ==True and self.current_target_goal==None:
+                states = ["NAVIGATION","DO_HARVESTING"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+
+        return states
+            else:
+                states = ["NAVIGATION","KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+        elif state =="STOP_NAVIGATION":
+            if self.goal_reached ==True and self.current_target_goal==None:
+                states = ["NAVIGATION","DO_HARVESTING"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+
+        return states
+    return sm
+    
+if __name__ == '__main__':
+    rospy.init_node('harvey_smach_v1')
+    rospy.sleep(0.5)          # Time to initialize to avoid missing log messages
+    sm = init_harvey_userdata()  # Create state machine
+    outcome = sm.execute()    # Execute state machine
+    rospy.loginfo('Final outcome: '+outcome)
+
+
+
+ def callback_select_mode(self,msg):
+        self.choose_next_state()
+        self.mode_change('START_NAVIGATION')
+        if self.current_target_goal !=None and self.goal_reached != True:
+            print('Distance to Current sequence end point',euclidean_distance(self.start,self.current_target_goal), (euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal))
+            if euclidean_distance(self.start,self.current_target_goal)<self.threshold_distance_to_goal:
+                self.goal_reached = True
+                self.current_target_goal = None
+            # pass
+    def successor_states(self,state):
+        if state in ("NAVIGATION"):
+            if(self.current_target_goal!=None and self.is_goal_set!= None):
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+            else:
+                states = ["KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","START_HARVESTING","STOP_HARVESTING","DO_HARVESTING","STOP_NAVIGATION"]
+        elif state in ("START_NAVIGATION"):
+            if self.goal_reached ==True:
+                states = ["STOP_NAVIGATION","NAVIGATION"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+        elif state =="KEY_HOLE_GENERATION":
+            if self.key_hole_success == False:
+                states = ["KEY_HOLE_GENERATION","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="ASSISTED_ALIGNMENT":
+            if self.alignment_success == False:
+                states = ["ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="DO_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["NAVIGATION","ASSISTED_ALIGNMENT","KEY_HOLE_GENERATION"]
+        elif state =="START_HARVESTING":
+            if self.harvest_success != True:
+                states = ["START_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["DO_HARVESTING","NAVIGATION"]
+        elif state =="STOP_HARVESTING":
+            if self.start_harvest ==True:
+                states = ["DO_HARVESTING","STOP_HARVESTING"]
+            else:
+                states = ["NAVIGATION","KEY_HOLE_GENERATION","ASSISTED_ALIGNMENT","STOP_NAVIGATION"]
+        elif state =="STOP_NAVIGATION":
+            if self.goal_reached ==True and self.current_target_goal==None:
+                states = ["NAVIGATION","DO_HARVESTING"]
+            else:
+                states = ["START_NAVIGATION","STOP_NAVIGATION"]
+
+        return states

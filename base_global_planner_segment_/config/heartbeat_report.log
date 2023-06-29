@@ -1,0 +1,1536 @@
+2023-06-18 14:12:27,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:28,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:28,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 10.000000
+2023-06-18 14:12:29,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:29,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 20.000000
+2023-06-18 14:12:30,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:30,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 30.000000
+2023-06-18 14:12:31,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:31,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 40.000000
+2023-06-18 14:12:32,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:32,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 50.000000
+2023-06-18 14:12:33,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:33,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 60.000000
+2023-06-18 14:12:34,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:34,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 70.000000
+2023-06-18 14:12:35,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:35,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 80.000000
+2023-06-18 14:12:36,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:36,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 90.000000
+2023-06-18 14:12:37,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:37,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 100.000000
+2023-06-18 14:12:38,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:38,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 110.000000
+2023-06-18 14:12:39,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:39,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 120.000000
+2023-06-18 14:12:40,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:40,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 130.000000
+2023-06-18 14:12:41,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:41,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 140.000000
+2023-06-18 14:12:42,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:42,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 150.000000
+2023-06-18 14:12:43,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:43,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 160.000000
+2023-06-18 14:12:44,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:44,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 170.000000
+2023-06-18 14:12:45,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:45,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 180.000000
+2023-06-18 14:12:46,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:46,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 190.000000
+2023-06-18 14:12:47,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:47,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 200.000000
+2023-06-18 14:12:48,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:48,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 210.000000
+2023-06-18 14:12:49,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:49,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 220.000000
+2023-06-18 14:12:50,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:50,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 230.000000
+2023-06-18 14:12:51,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:51,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 240.000000
+2023-06-18 14:12:52,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:52,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 250.000000
+2023-06-18 14:12:53,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:53,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 260.000000
+2023-06-18 14:12:54,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:54,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 270.000000
+2023-06-18 14:12:55,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:55,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 280.000000
+2023-06-18 14:12:56,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:56,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 290.000000
+2023-06-18 14:12:57,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:57,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 300.000000
+2023-06-18 14:12:58,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:58,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 310.000000
+2023-06-18 14:12:59,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:12:59,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 320.000000
+2023-06-18 14:13:00,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:00,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 330.000000
+2023-06-18 14:13:01,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:01,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 340.000000
+2023-06-18 14:13:02,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:02,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 350.000000
+2023-06-18 14:13:03,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:03,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 360.000000
+2023-06-18 14:13:04,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:04,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 370.000000
+2023-06-18 14:13:05,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:05,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 380.000000
+2023-06-18 14:13:06,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:06,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 390.000000
+2023-06-18 14:13:07,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:07,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 400.000000
+2023-06-18 14:13:08,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:08,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 410.000000
+2023-06-18 14:13:09,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:09,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 420.000000
+2023-06-18 14:13:10,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:10,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 430.000000
+2023-06-18 14:13:11,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:11,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 440.000000
+2023-06-18 14:13:12,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:12,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 450.000000
+2023-06-18 14:13:13,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:13,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 460.000000
+2023-06-18 14:13:14,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:14,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 470.000000
+2023-06-18 14:13:15,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:15,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 480.000000
+2023-06-18 14:13:16,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:16,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 490.000000
+2023-06-18 14:13:17,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:17,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 500.000000
+2023-06-18 14:13:18,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:18,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 510.000000
+2023-06-18 14:13:19,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:19,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 520.000000
+2023-06-18 14:13:20,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:20,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 530.000000
+2023-06-18 14:13:21,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:21,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 540.000000
+2023-06-18 14:13:22,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:22,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 550.000000
+2023-06-18 14:13:23,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:23,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 560.000000
+2023-06-18 14:13:24,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:24,482 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 570.000000
+2023-06-18 14:13:25,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:25,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 580.000000
+2023-06-18 14:13:26,481 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:26,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 590.000000
+2023-06-18 14:13:27,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:27,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 600.000000
+2023-06-18 14:13:28,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:28,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 610.000000
+2023-06-18 14:13:29,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:29,480 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 620.000000
+2023-06-18 14:13:30,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:30,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 630.000000
+2023-06-18 14:13:31,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:31,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 640.000000
+2023-06-18 14:13:32,480 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 14:13:32,481 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 650.000000
+2023-06-18 17:23:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 10.000000
+2023-06-18 17:23:27,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:27,545 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 20.000000
+2023-06-18 17:23:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:28,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 30.000000
+2023-06-18 17:23:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 40.000000
+2023-06-18 17:23:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 50.000000
+2023-06-18 17:23:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 60.000000
+2023-06-18 17:23:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:32,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 70.000000
+2023-06-18 17:23:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 80.000000
+2023-06-18 17:23:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 90.000000
+2023-06-18 17:23:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:35,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 100.000000
+2023-06-18 17:23:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:36,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 110.000000
+2023-06-18 17:23:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:37,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 120.000000
+2023-06-18 17:23:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:38,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 130.000000
+2023-06-18 17:23:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:39,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 140.000000
+2023-06-18 17:23:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 150.000000
+2023-06-18 17:23:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:41,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 160.000000
+2023-06-18 17:23:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:42,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 170.000000
+2023-06-18 17:23:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:43,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 180.000000
+2023-06-18 17:23:44,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:44,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 190.000000
+2023-06-18 17:23:45,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:45,545 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 200.000000
+2023-06-18 17:23:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:46,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 210.000000
+2023-06-18 17:23:47,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:47,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 220.000000
+2023-06-18 17:23:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:48,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 230.000000
+2023-06-18 17:23:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 240.000000
+2023-06-18 17:23:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:50,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 250.000000
+2023-06-18 17:23:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 260.000000
+2023-06-18 17:23:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 270.000000
+2023-06-18 17:23:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:53,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 280.000000
+2023-06-18 17:23:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 290.000000
+2023-06-18 17:23:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 300.000000
+2023-06-18 17:23:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:56,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 310.000000
+2023-06-18 17:23:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 320.000000
+2023-06-18 17:23:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 330.000000
+2023-06-18 17:23:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:23:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 340.000000
+2023-06-18 17:24:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 350.000000
+2023-06-18 17:24:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:01,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 360.000000
+2023-06-18 17:24:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 370.000000
+2023-06-18 17:24:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:03,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 380.000000
+2023-06-18 17:24:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 390.000000
+2023-06-18 17:24:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:05,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 400.000000
+2023-06-18 17:24:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:06,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 410.000000
+2023-06-18 17:24:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 420.000000
+2023-06-18 17:24:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:08,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 430.000000
+2023-06-18 17:24:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 440.000000
+2023-06-18 17:24:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 450.000000
+2023-06-18 17:24:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:11,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 460.000000
+2023-06-18 17:24:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:12,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 470.000000
+2023-06-18 17:24:13,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:13,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 480.000000
+2023-06-18 17:24:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:14,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 490.000000
+2023-06-18 17:24:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 500.000000
+2023-06-18 17:24:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 510.000000
+2023-06-18 17:24:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 520.000000
+2023-06-18 17:24:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:18,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 530.000000
+2023-06-18 17:24:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:19,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 540.000000
+2023-06-18 17:24:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:20,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 550.000000
+2023-06-18 17:24:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 560.000000
+2023-06-18 17:24:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:22,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 570.000000
+2023-06-18 17:24:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:23,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 580.000000
+2023-06-18 17:24:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:24,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 590.000000
+2023-06-18 17:24:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:25,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 600.000000
+2023-06-18 17:24:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 610.000000
+2023-06-18 17:24:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:27,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 620.000000
+2023-06-18 17:24:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 630.000000
+2023-06-18 17:24:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 640.000000
+2023-06-18 17:24:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 650.000000
+2023-06-18 17:24:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 660.000000
+2023-06-18 17:24:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:32,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 670.000000
+2023-06-18 17:24:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 680.000000
+2023-06-18 17:24:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:34,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 690.000000
+2023-06-18 17:24:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:35,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 700.000000
+2023-06-18 17:24:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:36,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 710.000000
+2023-06-18 17:24:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:37,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 720.000000
+2023-06-18 17:24:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:38,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 730.000000
+2023-06-18 17:24:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:39,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 740.000000
+2023-06-18 17:24:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:40,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 750.000000
+2023-06-18 17:24:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:41,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 760.000000
+2023-06-18 17:24:42,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:42,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 770.000000
+2023-06-18 17:24:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:43,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 780.000000
+2023-06-18 17:24:44,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:44,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 790.000000
+2023-06-18 17:24:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:45,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 800.000000
+2023-06-18 17:24:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:46,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 810.000000
+2023-06-18 17:24:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:47,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 820.000000
+2023-06-18 17:24:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:48,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 830.000000
+2023-06-18 17:24:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 840.000000
+2023-06-18 17:24:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:50,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 850.000000
+2023-06-18 17:24:51,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:51,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 860.000000
+2023-06-18 17:24:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:52,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 870.000000
+2023-06-18 17:24:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:53,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 880.000000
+2023-06-18 17:24:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:54,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 890.000000
+2023-06-18 17:24:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:55,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 900.000000
+2023-06-18 17:24:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:56,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 910.000000
+2023-06-18 17:24:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 920.000000
+2023-06-18 17:24:58,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:58,545 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 930.000000
+2023-06-18 17:24:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:24:59,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 940.000000
+2023-06-18 17:25:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 950.000000
+2023-06-18 17:25:01,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:01,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 960.000000
+2023-06-18 17:25:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:02,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 970.000000
+2023-06-18 17:25:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:03,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 980.000000
+2023-06-18 17:25:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 990.000000
+2023-06-18 17:25:05,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:05,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1000.000000
+2023-06-18 17:25:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1010.000000
+2023-06-18 17:25:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:07,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1020.000000
+2023-06-18 17:25:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:08,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1030.000000
+2023-06-18 17:25:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1040.000000
+2023-06-18 17:25:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1050.000000
+2023-06-18 17:25:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:11,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1060.000000
+2023-06-18 17:25:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1070.000000
+2023-06-18 17:25:13,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:13,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1080.000000
+2023-06-18 17:25:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:14,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1090.000000
+2023-06-18 17:25:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1100.000000
+2023-06-18 17:25:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1110.000000
+2023-06-18 17:25:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1120.000000
+2023-06-18 17:25:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:18,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1130.000000
+2023-06-18 17:25:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:19,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1140.000000
+2023-06-18 17:25:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:20,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1150.000000
+2023-06-18 17:25:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1160.000000
+2023-06-18 17:25:22,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:22,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1170.000000
+2023-06-18 17:25:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:23,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1180.000000
+2023-06-18 17:25:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1190.000000
+2023-06-18 17:25:25,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:25,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1200.000000
+2023-06-18 17:25:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1210.000000
+2023-06-18 17:25:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:27,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1220.000000
+2023-06-18 17:25:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1230.000000
+2023-06-18 17:25:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:29,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1240.000000
+2023-06-18 17:25:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1250.000000
+2023-06-18 17:25:31,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:31,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1260.000000
+2023-06-18 17:25:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:32,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1270.000000
+2023-06-18 17:25:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1280.000000
+2023-06-18 17:25:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1290.000000
+2023-06-18 17:25:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:35,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1300.000000
+2023-06-18 17:25:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:36,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1310.000000
+2023-06-18 17:25:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:37,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1320.000000
+2023-06-18 17:25:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:38,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1330.000000
+2023-06-18 17:25:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:39,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1340.000000
+2023-06-18 17:25:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:40,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1350.000000
+2023-06-18 17:25:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:41,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1360.000000
+2023-06-18 17:25:42,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:42,545 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1370.000000
+2023-06-18 17:25:43,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:43,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1380.000000
+2023-06-18 17:25:44,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:44,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1390.000000
+2023-06-18 17:25:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:45,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1400.000000
+2023-06-18 17:25:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:46,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1410.000000
+2023-06-18 17:25:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:47,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1420.000000
+2023-06-18 17:25:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:48,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1430.000000
+2023-06-18 17:25:49,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:49,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1440.000000
+2023-06-18 17:25:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1450.000000
+2023-06-18 17:25:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:51,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1460.000000
+2023-06-18 17:25:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1470.000000
+2023-06-18 17:25:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:53,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1480.000000
+2023-06-18 17:25:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1490.000000
+2023-06-18 17:25:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1500.000000
+2023-06-18 17:25:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1510.000000
+2023-06-18 17:25:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:57,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1520.000000
+2023-06-18 17:25:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1530.000000
+2023-06-18 17:25:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:25:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1540.000000
+2023-06-18 17:26:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1550.000000
+2023-06-18 17:26:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:01,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1560.000000
+2023-06-18 17:26:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:02,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1570.000000
+2023-06-18 17:26:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:03,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1580.000000
+2023-06-18 17:26:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1590.000000
+2023-06-18 17:26:05,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:05,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1600.000000
+2023-06-18 17:26:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1610.000000
+2023-06-18 17:26:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1620.000000
+2023-06-18 17:26:08,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:08,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1630.000000
+2023-06-18 17:26:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1640.000000
+2023-06-18 17:26:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1650.000000
+2023-06-18 17:26:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:11,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1660.000000
+2023-06-18 17:26:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1670.000000
+2023-06-18 17:26:13,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:13,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1680.000000
+2023-06-18 17:26:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:14,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1690.000000
+2023-06-18 17:26:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1700.000000
+2023-06-18 17:26:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1710.000000
+2023-06-18 17:26:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1720.000000
+2023-06-18 17:26:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:18,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1730.000000
+2023-06-18 17:26:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:19,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1740.000000
+2023-06-18 17:26:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:20,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1750.000000
+2023-06-18 17:26:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1760.000000
+2023-06-18 17:26:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:22,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1770.000000
+2023-06-18 17:26:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:23,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1780.000000
+2023-06-18 17:26:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:24,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1790.000000
+2023-06-18 17:26:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:25,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1800.000000
+2023-06-18 17:26:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1810.000000
+2023-06-18 17:26:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:27,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1820.000000
+2023-06-18 17:26:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1830.000000
+2023-06-18 17:26:29,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:29,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1840.000000
+2023-06-18 17:26:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1850.000000
+2023-06-18 17:26:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1860.000000
+2023-06-18 17:26:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:32,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1870.000000
+2023-06-18 17:26:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:33,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1880.000000
+2023-06-18 17:26:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:34,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1890.000000
+2023-06-18 17:26:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:35,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1900.000000
+2023-06-18 17:26:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:36,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1910.000000
+2023-06-18 17:26:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:37,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1920.000000
+2023-06-18 17:26:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:38,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1930.000000
+2023-06-18 17:26:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:39,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1940.000000
+2023-06-18 17:26:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1950.000000
+2023-06-18 17:26:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:41,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1960.000000
+2023-06-18 17:26:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:42,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1970.000000
+2023-06-18 17:26:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:43,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1980.000000
+2023-06-18 17:26:44,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:44,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 1990.000000
+2023-06-18 17:26:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:45,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2000.000000
+2023-06-18 17:26:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:46,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2010.000000
+2023-06-18 17:26:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:47,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2020.000000
+2023-06-18 17:26:48,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:48,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2030.000000
+2023-06-18 17:26:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2040.000000
+2023-06-18 17:26:50,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2050.000000
+2023-06-18 17:26:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2060.000000
+2023-06-18 17:26:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2070.000000
+2023-06-18 17:26:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:53,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2080.000000
+2023-06-18 17:26:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2090.000000
+2023-06-18 17:26:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2100.000000
+2023-06-18 17:26:56,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2110.000000
+2023-06-18 17:26:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:57,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2120.000000
+2023-06-18 17:26:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2130.000000
+2023-06-18 17:26:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:26:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2140.000000
+2023-06-18 17:27:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2150.000000
+2023-06-18 17:27:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2160.000000
+2023-06-18 17:27:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2170.000000
+2023-06-18 17:27:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:03,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2180.000000
+2023-06-18 17:27:04,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:04,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2190.000000
+2023-06-18 17:27:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:05,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2200.000000
+2023-06-18 17:27:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:06,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2210.000000
+2023-06-18 17:27:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2220.000000
+2023-06-18 17:27:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:08,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2230.000000
+2023-06-18 17:27:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2240.000000
+2023-06-18 17:27:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2250.000000
+2023-06-18 17:27:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:11,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2260.000000
+2023-06-18 17:27:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2270.000000
+2023-06-18 17:27:13,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:13,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2280.000000
+2023-06-18 17:27:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:14,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2290.000000
+2023-06-18 17:27:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2300.000000
+2023-06-18 17:27:16,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:16,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2310.000000
+2023-06-18 17:27:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:17,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2320.000000
+2023-06-18 17:27:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:18,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2330.000000
+2023-06-18 17:27:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:19,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2340.000000
+2023-06-18 17:27:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:20,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2350.000000
+2023-06-18 17:27:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2360.000000
+2023-06-18 17:27:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:22,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2370.000000
+2023-06-18 17:27:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:23,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2380.000000
+2023-06-18 17:27:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2390.000000
+2023-06-18 17:27:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:25,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2400.000000
+2023-06-18 17:27:26,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:26,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2410.000000
+2023-06-18 17:27:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:27,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2420.000000
+2023-06-18 17:27:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2430.000000
+2023-06-18 17:27:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2440.000000
+2023-06-18 17:27:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:30,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2450.000000
+2023-06-18 17:27:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2460.000000
+2023-06-18 17:27:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:32,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2470.000000
+2023-06-18 17:27:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2480.000000
+2023-06-18 17:27:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2490.000000
+2023-06-18 17:27:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:35,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2500.000000
+2023-06-18 17:27:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:36,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2510.000000
+2023-06-18 17:27:37,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:37,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2520.000000
+2023-06-18 17:27:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:38,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2530.000000
+2023-06-18 17:27:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:39,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2540.000000
+2023-06-18 17:27:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2550.000000
+2023-06-18 17:27:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:41,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2560.000000
+2023-06-18 17:27:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:42,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2570.000000
+2023-06-18 17:27:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:43,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2580.000000
+2023-06-18 17:27:44,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:44,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2590.000000
+2023-06-18 17:27:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:45,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2600.000000
+2023-06-18 17:27:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:46,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2610.000000
+2023-06-18 17:27:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:47,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2620.000000
+2023-06-18 17:27:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:48,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2630.000000
+2023-06-18 17:27:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:49,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2640.000000
+2023-06-18 17:27:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2650.000000
+2023-06-18 17:27:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2660.000000
+2023-06-18 17:27:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:52,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2670.000000
+2023-06-18 17:27:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:53,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2680.000000
+2023-06-18 17:27:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2690.000000
+2023-06-18 17:27:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2700.000000
+2023-06-18 17:27:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2710.000000
+2023-06-18 17:27:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2720.000000
+2023-06-18 17:27:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2730.000000
+2023-06-18 17:27:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:27:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2740.000000
+2023-06-18 17:28:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2750.000000
+2023-06-18 17:28:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2760.000000
+2023-06-18 17:28:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2770.000000
+2023-06-18 17:28:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:03,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2780.000000
+2023-06-18 17:28:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2790.000000
+2023-06-18 17:28:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:05,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2800.000000
+2023-06-18 17:28:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2810.000000
+2023-06-18 17:28:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2820.000000
+2023-06-18 17:28:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:08,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2830.000000
+2023-06-18 17:28:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2840.000000
+2023-06-18 17:28:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2850.000000
+2023-06-18 17:28:11,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:11,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2860.000000
+2023-06-18 17:28:12,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:12,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2870.000000
+2023-06-18 17:28:13,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:13,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2880.000000
+2023-06-18 17:28:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:14,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2890.000000
+2023-06-18 17:28:15,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:15,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2900.000000
+2023-06-18 17:28:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2910.000000
+2023-06-18 17:28:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2920.000000
+2023-06-18 17:28:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:18,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2930.000000
+2023-06-18 17:28:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:19,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2940.000000
+2023-06-18 17:28:20,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:20,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2950.000000
+2023-06-18 17:28:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2960.000000
+2023-06-18 17:28:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:22,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2970.000000
+2023-06-18 17:28:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:23,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2980.000000
+2023-06-18 17:28:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 2990.000000
+2023-06-18 17:28:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:25,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3000.000000
+2023-06-18 17:28:26,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:26,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3010.000000
+2023-06-18 17:28:27,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:27,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3020.000000
+2023-06-18 17:28:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3030.000000
+2023-06-18 17:28:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3040.000000
+2023-06-18 17:28:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3050.000000
+2023-06-18 17:28:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3060.000000
+2023-06-18 17:28:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:32,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3070.000000
+2023-06-18 17:28:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3080.000000
+2023-06-18 17:28:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3090.000000
+2023-06-18 17:28:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:35,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3100.000000
+2023-06-18 17:28:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:36,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3110.000000
+2023-06-18 17:28:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:37,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3120.000000
+2023-06-18 17:28:38,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:38,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3130.000000
+2023-06-18 17:28:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:39,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3140.000000
+2023-06-18 17:28:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3150.000000
+2023-06-18 17:28:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:41,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3160.000000
+2023-06-18 17:28:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:42,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3170.000000
+2023-06-18 17:28:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:43,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3180.000000
+2023-06-18 17:28:44,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:44,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3190.000000
+2023-06-18 17:28:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:45,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3200.000000
+2023-06-18 17:28:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:46,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3210.000000
+2023-06-18 17:28:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:47,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3220.000000
+2023-06-18 17:28:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:48,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3230.000000
+2023-06-18 17:28:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3240.000000
+2023-06-18 17:28:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3250.000000
+2023-06-18 17:28:51,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:51,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3260.000000
+2023-06-18 17:28:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3270.000000
+2023-06-18 17:28:53,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:53,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3280.000000
+2023-06-18 17:28:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3290.000000
+2023-06-18 17:28:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3300.000000
+2023-06-18 17:28:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3310.000000
+2023-06-18 17:28:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3320.000000
+2023-06-18 17:28:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:58,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3330.000000
+2023-06-18 17:28:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:28:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3340.000000
+2023-06-18 17:29:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3350.000000
+2023-06-18 17:29:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3360.000000
+2023-06-18 17:29:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3370.000000
+2023-06-18 17:29:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:03,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3380.000000
+2023-06-18 17:29:04,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3390.000000
+2023-06-18 17:29:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:05,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3400.000000
+2023-06-18 17:29:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3410.000000
+2023-06-18 17:29:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3420.000000
+2023-06-18 17:29:08,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:08,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3430.000000
+2023-06-18 17:29:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:09,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3440.000000
+2023-06-18 17:29:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3450.000000
+2023-06-18 17:29:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:11,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3460.000000
+2023-06-18 17:29:12,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3470.000000
+2023-06-18 17:29:13,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:13,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3480.000000
+2023-06-18 17:29:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:14,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3490.000000
+2023-06-18 17:29:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3500.000000
+2023-06-18 17:29:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3510.000000
+2023-06-18 17:29:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3520.000000
+2023-06-18 17:29:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:18,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3530.000000
+2023-06-18 17:29:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:19,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3540.000000
+2023-06-18 17:29:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:20,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3550.000000
+2023-06-18 17:29:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3560.000000
+2023-06-18 17:29:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:22,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3570.000000
+2023-06-18 17:29:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:23,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3580.000000
+2023-06-18 17:29:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3590.000000
+2023-06-18 17:29:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:25,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3600.000000
+2023-06-18 17:29:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3610.000000
+2023-06-18 17:29:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:27,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3620.000000
+2023-06-18 17:29:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3630.000000
+2023-06-18 17:29:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3640.000000
+2023-06-18 17:29:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3650.000000
+2023-06-18 17:29:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:31,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3660.000000
+2023-06-18 17:29:32,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:32,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3670.000000
+2023-06-18 17:29:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3680.000000
+2023-06-18 17:29:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3690.000000
+2023-06-18 17:29:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:35,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3700.000000
+2023-06-18 17:29:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:36,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3710.000000
+2023-06-18 17:29:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:37,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3720.000000
+2023-06-18 17:29:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:38,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3730.000000
+2023-06-18 17:29:39,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:39,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3740.000000
+2023-06-18 17:29:40,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:40,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3750.000000
+2023-06-18 17:29:41,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:41,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3760.000000
+2023-06-18 17:29:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:42,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3770.000000
+2023-06-18 17:29:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:43,549 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3780.000000
+2023-06-18 17:29:44,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:44,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3790.000000
+2023-06-18 17:29:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:45,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3800.000000
+2023-06-18 17:29:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:46,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3810.000000
+2023-06-18 17:29:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:47,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3820.000000
+2023-06-18 17:29:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:48,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3830.000000
+2023-06-18 17:29:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3840.000000
+2023-06-18 17:29:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3850.000000
+2023-06-18 17:29:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3860.000000
+2023-06-18 17:29:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3870.000000
+2023-06-18 17:29:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:53,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3880.000000
+2023-06-18 17:29:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3890.000000
+2023-06-18 17:29:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3900.000000
+2023-06-18 17:29:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3910.000000
+2023-06-18 17:29:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3920.000000
+2023-06-18 17:29:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:58,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3930.000000
+2023-06-18 17:29:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:29:59,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3940.000000
+2023-06-18 17:30:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:00,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3950.000000
+2023-06-18 17:30:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3960.000000
+2023-06-18 17:30:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:02,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3970.000000
+2023-06-18 17:30:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:03,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3980.000000
+2023-06-18 17:30:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:04,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 3990.000000
+2023-06-18 17:30:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:05,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4000.000000
+2023-06-18 17:30:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4010.000000
+2023-06-18 17:30:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4020.000000
+2023-06-18 17:30:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:08,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4030.000000
+2023-06-18 17:30:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4040.000000
+2023-06-18 17:30:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4050.000000
+2023-06-18 17:30:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:11,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4060.000000
+2023-06-18 17:30:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4070.000000
+2023-06-18 17:30:13,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:13,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4080.000000
+2023-06-18 17:30:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:14,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4090.000000
+2023-06-18 17:30:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:15,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4100.000000
+2023-06-18 17:30:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4110.000000
+2023-06-18 17:30:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:17,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4120.000000
+2023-06-18 17:30:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:18,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4130.000000
+2023-06-18 17:30:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:19,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4140.000000
+2023-06-18 17:30:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:20,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4150.000000
+2023-06-18 17:30:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4160.000000
+2023-06-18 17:30:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:22,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4170.000000
+2023-06-18 17:30:23,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:23,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4180.000000
+2023-06-18 17:30:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4190.000000
+2023-06-18 17:30:25,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:25,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4200.000000
+2023-06-18 17:30:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:26,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4210.000000
+2023-06-18 17:30:27,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:27,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4220.000000
+2023-06-18 17:30:28,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4230.000000
+2023-06-18 17:30:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4240.000000
+2023-06-18 17:30:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:30,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4250.000000
+2023-06-18 17:30:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4260.000000
+2023-06-18 17:30:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:32,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4270.000000
+2023-06-18 17:30:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:33,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4280.000000
+2023-06-18 17:30:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4290.000000
+2023-06-18 17:30:35,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:35,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4300.000000
+2023-06-18 17:30:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:36,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4310.000000
+2023-06-18 17:30:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:37,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4320.000000
+2023-06-18 17:30:38,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:38,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4330.000000
+2023-06-18 17:30:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:39,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4340.000000
+2023-06-18 17:30:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4350.000000
+2023-06-18 17:30:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:41,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4360.000000
+2023-06-18 17:30:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:42,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4370.000000
+2023-06-18 17:30:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:43,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4380.000000
+2023-06-18 17:30:44,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:44,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4390.000000
+2023-06-18 17:30:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:45,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4400.000000
+2023-06-18 17:30:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:46,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4410.000000
+2023-06-18 17:30:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:47,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4420.000000
+2023-06-18 17:30:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:48,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4430.000000
+2023-06-18 17:30:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4440.000000
+2023-06-18 17:30:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4450.000000
+2023-06-18 17:30:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4460.000000
+2023-06-18 17:30:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4470.000000
+2023-06-18 17:30:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:53,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4480.000000
+2023-06-18 17:30:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4490.000000
+2023-06-18 17:30:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4500.000000
+2023-06-18 17:30:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4510.000000
+2023-06-18 17:30:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4520.000000
+2023-06-18 17:30:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4530.000000
+2023-06-18 17:30:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:30:59,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4540.000000
+2023-06-18 17:31:00,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:00,545 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4550.000000
+2023-06-18 17:31:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4560.000000
+2023-06-18 17:31:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4570.000000
+2023-06-18 17:31:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:03,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4580.000000
+2023-06-18 17:31:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4590.000000
+2023-06-18 17:31:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:05,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4600.000000
+2023-06-18 17:31:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4610.000000
+2023-06-18 17:31:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:07,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4620.000000
+2023-06-18 17:31:08,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:08,545 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4630.000000
+2023-06-18 17:31:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4640.000000
+2023-06-18 17:31:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:10,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4650.000000
+2023-06-18 17:31:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:11,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4660.000000
+2023-06-18 17:31:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4670.000000
+2023-06-18 17:31:13,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:13,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4680.000000
+2023-06-18 17:31:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:14,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4690.000000
+2023-06-18 17:31:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4700.000000
+2023-06-18 17:31:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4710.000000
+2023-06-18 17:31:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4720.000000
+2023-06-18 17:31:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:18,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4730.000000
+2023-06-18 17:31:19,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:19,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4740.000000
+2023-06-18 17:31:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:20,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4750.000000
+2023-06-18 17:31:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:21,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4760.000000
+2023-06-18 17:31:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:22,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4770.000000
+2023-06-18 17:31:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:23,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4780.000000
+2023-06-18 17:31:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4790.000000
+2023-06-18 17:31:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:25,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4800.000000
+2023-06-18 17:31:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4810.000000
+2023-06-18 17:31:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:27,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4820.000000
+2023-06-18 17:31:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4830.000000
+2023-06-18 17:31:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4840.000000
+2023-06-18 17:31:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4850.000000
+2023-06-18 17:31:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4860.000000
+2023-06-18 17:31:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:32,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4870.000000
+2023-06-18 17:31:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4880.000000
+2023-06-18 17:31:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4890.000000
+2023-06-18 17:31:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:35,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4900.000000
+2023-06-18 17:31:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:36,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4910.000000
+2023-06-18 17:31:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:37,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4920.000000
+2023-06-18 17:31:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:38,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4930.000000
+2023-06-18 17:31:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:39,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4940.000000
+2023-06-18 17:31:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4950.000000
+2023-06-18 17:31:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:41,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4960.000000
+2023-06-18 17:31:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:42,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4970.000000
+2023-06-18 17:31:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:43,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4980.000000
+2023-06-18 17:31:44,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:44,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 4990.000000
+2023-06-18 17:31:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:45,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5000.000000
+2023-06-18 17:31:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:46,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5010.000000
+2023-06-18 17:31:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:47,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5020.000000
+2023-06-18 17:31:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:48,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5030.000000
+2023-06-18 17:31:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5040.000000
+2023-06-18 17:31:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5050.000000
+2023-06-18 17:31:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5060.000000
+2023-06-18 17:31:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5070.000000
+2023-06-18 17:31:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:53,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5080.000000
+2023-06-18 17:31:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:54,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5090.000000
+2023-06-18 17:31:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5100.000000
+2023-06-18 17:31:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5110.000000
+2023-06-18 17:31:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5120.000000
+2023-06-18 17:31:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5130.000000
+2023-06-18 17:31:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:31:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5140.000000
+2023-06-18 17:32:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5150.000000
+2023-06-18 17:32:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5160.000000
+2023-06-18 17:32:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5170.000000
+2023-06-18 17:32:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:03,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5180.000000
+2023-06-18 17:32:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5190.000000
+2023-06-18 17:32:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:05,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5200.000000
+2023-06-18 17:32:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5210.000000
+2023-06-18 17:32:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5220.000000
+2023-06-18 17:32:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:08,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5230.000000
+2023-06-18 17:32:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5240.000000
+2023-06-18 17:32:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5250.000000
+2023-06-18 17:32:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:11,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5260.000000
+2023-06-18 17:32:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5270.000000
+2023-06-18 17:32:13,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:13,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5280.000000
+2023-06-18 17:32:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:14,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5290.000000
+2023-06-18 17:32:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5300.000000
+2023-06-18 17:32:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:16,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5310.000000
+2023-06-18 17:32:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5320.000000
+2023-06-18 17:32:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:18,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5330.000000
+2023-06-18 17:32:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:19,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5340.000000
+2023-06-18 17:32:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:20,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5350.000000
+2023-06-18 17:32:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5360.000000
+2023-06-18 17:32:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:22,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5370.000000
+2023-06-18 17:32:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:23,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5380.000000
+2023-06-18 17:32:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5390.000000
+2023-06-18 17:32:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:25,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5400.000000
+2023-06-18 17:32:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5410.000000
+2023-06-18 17:32:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:27,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5420.000000
+2023-06-18 17:32:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:28,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5430.000000
+2023-06-18 17:32:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:29,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5440.000000
+2023-06-18 17:32:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:30,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5450.000000
+2023-06-18 17:32:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5460.000000
+2023-06-18 17:32:32,547 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:32,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5470.000000
+2023-06-18 17:32:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:33,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5480.000000
+2023-06-18 17:32:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:34,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5490.000000
+2023-06-18 17:32:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:35,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5500.000000
+2023-06-18 17:32:36,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:36,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5510.000000
+2023-06-18 17:32:37,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:37,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5520.000000
+2023-06-18 17:32:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:38,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5530.000000
+2023-06-18 17:32:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:39,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5540.000000
+2023-06-18 17:32:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5550.000000
+2023-06-18 17:32:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:41,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5560.000000
+2023-06-18 17:32:42,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:42,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5570.000000
+2023-06-18 17:32:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:43,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5580.000000
+2023-06-18 17:32:44,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:44,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5590.000000
+2023-06-18 17:32:45,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:45,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5600.000000
+2023-06-18 17:32:46,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:46,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5610.000000
+2023-06-18 17:32:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:47,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5620.000000
+2023-06-18 17:32:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:48,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5630.000000
+2023-06-18 17:32:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:49,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5640.000000
+2023-06-18 17:32:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:50,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5650.000000
+2023-06-18 17:32:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5660.000000
+2023-06-18 17:32:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:52,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5670.000000
+2023-06-18 17:32:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:53,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5680.000000
+2023-06-18 17:32:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5690.000000
+2023-06-18 17:32:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:55,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5700.000000
+2023-06-18 17:32:56,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:56,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5710.000000
+2023-06-18 17:32:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5720.000000
+2023-06-18 17:32:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5730.000000
+2023-06-18 17:32:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:32:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5740.000000
+2023-06-18 17:33:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:00,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5750.000000
+2023-06-18 17:33:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5760.000000
+2023-06-18 17:33:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5770.000000
+2023-06-18 17:33:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:03,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5780.000000
+2023-06-18 17:33:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5790.000000
+2023-06-18 17:33:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:05,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5800.000000
+2023-06-18 17:33:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:06,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5810.000000
+2023-06-18 17:33:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5820.000000
+2023-06-18 17:33:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:08,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5830.000000
+2023-06-18 17:33:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5840.000000
+2023-06-18 17:33:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5850.000000
+2023-06-18 17:33:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:11,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5860.000000
+2023-06-18 17:33:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5870.000000
+2023-06-18 17:33:13,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:13,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5880.000000
+2023-06-18 17:33:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:14,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5890.000000
+2023-06-18 17:33:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5900.000000
+2023-06-18 17:33:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5910.000000
+2023-06-18 17:33:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:17,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5920.000000
+2023-06-18 17:33:18,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:18,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5930.000000
+2023-06-18 17:33:19,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:19,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5940.000000
+2023-06-18 17:33:20,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:20,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5950.000000
+2023-06-18 17:33:21,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:21,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5960.000000
+2023-06-18 17:33:22,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:22,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5970.000000
+2023-06-18 17:33:23,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:23,548 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5980.000000
+2023-06-18 17:33:24,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:24,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 5990.000000
+2023-06-18 17:33:25,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:25,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6000.000000
+2023-06-18 17:33:26,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:26,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6010.000000
+2023-06-18 17:33:27,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:27,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6020.000000
+2023-06-18 17:33:28,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:28,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6030.000000
+2023-06-18 17:33:29,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:29,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6040.000000
+2023-06-18 17:33:30,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:30,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6050.000000
+2023-06-18 17:33:31,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:31,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6060.000000
+2023-06-18 17:33:32,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:32,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6070.000000
+2023-06-18 17:33:33,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:33,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6080.000000
+2023-06-18 17:33:34,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:34,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6090.000000
+2023-06-18 17:33:35,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:35,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6100.000000
+2023-06-18 17:33:36,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:36,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6110.000000
+2023-06-18 17:33:37,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:37,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6120.000000
+2023-06-18 17:33:38,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:38,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6130.000000
+2023-06-18 17:33:39,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:39,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6140.000000
+2023-06-18 17:33:40,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:40,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6150.000000
+2023-06-18 17:33:41,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:41,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6160.000000
+2023-06-18 17:33:42,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:42,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6170.000000
+2023-06-18 17:33:43,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:43,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6180.000000
+2023-06-18 17:33:44,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:44,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6190.000000
+2023-06-18 17:33:45,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:45,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6200.000000
+2023-06-18 17:33:46,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:46,545 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6210.000000
+2023-06-18 17:33:47,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:47,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6220.000000
+2023-06-18 17:33:48,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:48,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6230.000000
+2023-06-18 17:33:49,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:49,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6240.000000
+2023-06-18 17:33:50,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:50,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6250.000000
+2023-06-18 17:33:51,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:51,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6260.000000
+2023-06-18 17:33:52,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:52,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6270.000000
+2023-06-18 17:33:53,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:53,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6280.000000
+2023-06-18 17:33:54,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:54,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6290.000000
+2023-06-18 17:33:55,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:55,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6300.000000
+2023-06-18 17:33:56,545 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:56,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6310.000000
+2023-06-18 17:33:57,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:57,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6320.000000
+2023-06-18 17:33:58,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:58,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6330.000000
+2023-06-18 17:33:59,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:33:59,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6340.000000
+2023-06-18 17:34:00,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:00,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6350.000000
+2023-06-18 17:34:01,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:01,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6360.000000
+2023-06-18 17:34:02,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:02,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6370.000000
+2023-06-18 17:34:03,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:03,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6380.000000
+2023-06-18 17:34:04,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:04,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6390.000000
+2023-06-18 17:34:05,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:05,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6400.000000
+2023-06-18 17:34:06,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:06,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6410.000000
+2023-06-18 17:34:07,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:07,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6420.000000
+2023-06-18 17:34:08,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:08,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6430.000000
+2023-06-18 17:34:09,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:09,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6440.000000
+2023-06-18 17:34:10,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:10,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6450.000000
+2023-06-18 17:34:11,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:11,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6460.000000
+2023-06-18 17:34:12,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:12,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6470.000000
+2023-06-18 17:34:13,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:13,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6480.000000
+2023-06-18 17:34:14,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:14,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6490.000000
+2023-06-18 17:34:15,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:15,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6500.000000
+2023-06-18 17:34:16,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:16,547 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6510.000000
+2023-06-18 17:34:17,546 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 17:34:17,546 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 6520.000000
+2023-06-18 18:17:42,560 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:17:43,561 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:17:43,562 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 10.000000
+2023-06-18 18:17:44,560 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:17:44,561 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 20.000000
+2023-06-18 18:17:45,561 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:17:45,562 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 30.000000
+2023-06-18 18:18:00,923 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:01,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:01,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 10.000000
+2023-06-18 18:18:02,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:02,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 20.000000
+2023-06-18 18:18:03,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:03,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 30.000000
+2023-06-18 18:18:04,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:04,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 40.000000
+2023-06-18 18:18:05,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:05,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 50.000000
+2023-06-18 18:18:06,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:06,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 60.000000
+2023-06-18 18:18:07,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:07,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 70.000000
+2023-06-18 18:18:08,923 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:08,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 80.000000
+2023-06-18 18:18:09,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:09,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 90.000000
+2023-06-18 18:18:10,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:10,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 100.000000
+2023-06-18 18:18:11,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:11,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 110.000000
+2023-06-18 18:18:12,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:12,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 120.000000
+2023-06-18 18:18:13,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:13,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 130.000000
+2023-06-18 18:18:14,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:14,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 140.000000
+2023-06-18 18:18:15,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:15,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 150.000000
+2023-06-18 18:18:16,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:16,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 160.000000
+2023-06-18 18:18:17,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:17,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 170.000000
+2023-06-18 18:18:18,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:18,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 180.000000
+2023-06-18 18:18:19,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:19,926 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 190.000000
+2023-06-18 18:18:20,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:20,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 200.000000
+2023-06-18 18:18:21,923 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:21,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 210.000000
+2023-06-18 18:18:22,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:22,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 220.000000
+2023-06-18 18:18:23,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:23,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 230.000000
+2023-06-18 18:18:24,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:24,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 240.000000
+2023-06-18 18:18:25,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:25,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 250.000000
+2023-06-18 18:18:26,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:26,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 260.000000
+2023-06-18 18:18:27,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:27,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 270.000000
+2023-06-18 18:18:28,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:28,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 280.000000
+2023-06-18 18:18:29,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:29,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 290.000000
+2023-06-18 18:18:30,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:30,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 300.000000
+2023-06-18 18:18:31,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:31,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 310.000000
+2023-06-18 18:18:32,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:32,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 320.000000
+2023-06-18 18:18:33,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:33,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 330.000000
+2023-06-18 18:18:34,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:34,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 340.000000
+2023-06-18 18:18:35,925 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:35,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 350.000000
+2023-06-18 18:18:36,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:36,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 360.000000
+2023-06-18 18:18:37,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:37,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 370.000000
+2023-06-18 18:18:38,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:38,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 380.000000
+2023-06-18 18:18:39,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:39,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 390.000000
+2023-06-18 18:18:40,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:40,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 400.000000
+2023-06-18 18:18:41,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:41,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 410.000000
+2023-06-18 18:18:42,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:42,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 420.000000
+2023-06-18 18:18:43,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:43,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 430.000000
+2023-06-18 18:18:44,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:44,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 440.000000
+2023-06-18 18:18:45,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:45,924 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 450.000000
+2023-06-18 18:18:46,924 - heartbeat_monitor_node - INFO - Node status: OK
+2023-06-18 18:18:46,925 - heartbeat_monitor_node - INFO - Topic test status: OK, publish rate: 460.000000
